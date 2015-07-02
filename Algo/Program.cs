@@ -11,5 +11,14 @@ namespace Algo
         static void Main(string[] args)
         {
         }
+
+        private static void TestArrayAlgos()
+        {
+
+
+
+        }
+
+
     }
 }
